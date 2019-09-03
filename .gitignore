@@ -1,0 +1,5 @@
+venv/
+db.sqlite3
+.idea/
+FantasyFootballAnalytics/__pycache__
+app/__pycache__
